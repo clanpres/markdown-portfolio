@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*I love my wife* \
+**My daughter is awesome as well**\
+***I don't know what this is***
+>try this
+>>and this?\
+:dizzy:\
+:grey_question:
